@@ -17,11 +17,6 @@ El proyecto de escalada es una aplicación web diseñada para los entusiastas de
 - **Guardar rutas:** Los usuarios pueden guardar sus rutas favoritas que se guardarán en su perfil.
   
 
-## Capturas de Pantalla
-
-Inserta aquí algunas capturas de pantalla de tu aplicación para que los visitantes puedan tener una vista previa.
-
-
 ## Cómo Interactuar
 
 Sigue estos pasos para configurar el proyecto en tu entorno local:
