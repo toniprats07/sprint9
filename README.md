@@ -44,11 +44,6 @@ Sigue estos pasos para configurar el proyecto en tu entorno local:
 ## Autor
 
 - Nombre: Toni Prats
-- Sitio web: www.linkedin.com/in/antoni-prats
+- Linkedin: www.linkedin.com/in/antoni-prats
 
 Si tienes alguna pregunta o inquietud, no dudes en contactarme.
-
-
-## Licencia
-
-Este proyecto se encuentra bajo la Licencia XYZ. Consulta el archivo `LICENSE` para obtener más información.
